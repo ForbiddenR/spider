@@ -1,0 +1,2 @@
+crawlerkit[selenium]
+selenium
